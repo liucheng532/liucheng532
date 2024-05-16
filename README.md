@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi 👋
+## My name is Liucheng, a mphil student in HKUST(GZ), looking for a 26fall PhD position 
 
 <!--
 **liucheng532/liucheng532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Humanoid & drl
+- 🌱 I’m currently learning drl
+- 📫 How to reach me: liucheng20021023@gmail.com
+- ⚡ Fun fact: tennis,workout,singing
+
+
+
