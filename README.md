@@ -7,10 +7,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Humanoid & drl
+- 🔭 My reaserch interest Humanoid & drl
 - 🌱 I’m currently learning drl
 - 📫 How to reach me: liucheng20021023@gmail.com
-- ⚡ Fun fact: tennis,workout,singing
+- ⚡ Hobbits: tennis,workout,singing
 
 
 
