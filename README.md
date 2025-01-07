@@ -1,5 +1,5 @@
 # Hi 👋
-## My name is Liucheng, a mphil student in HKUST(GZ), looking for a 26fall PhD position 
+## My name is Liucheng, a mphil student in HKUST(GZ)
 
 <!--
 **liucheng532/liucheng532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
